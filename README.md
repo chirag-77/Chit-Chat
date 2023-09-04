@@ -2,6 +2,7 @@
 Chit-Chat lets you register and chat with other registered users in real-time.<br />
 Frontend: React.js and SCSS<br />
 Backend: Firebase<br />
+Users can register and initiate/continue chat and share files with other registered users in realtime.<br />
 Some snaps of the working application UI:
 
 ![Screenshot (56)](https://github.com/chirag-77/chit-chat/assets/86802843/8f48c85b-f724-42d4-8f6c-c69172f33c67)
